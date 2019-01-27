@@ -1,0 +1,4 @@
+<view class="container">
+  <button bindtap="genMap">我的地图</button>
+  <map id="mymap"></map>
+  </view>

@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/scan-code/index"
+    "pages/scan-code/index",
+    "pages/map/index"
   ],
   "window":{
     "backgroundTextStyle":"light",

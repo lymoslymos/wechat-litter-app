@@ -22,6 +22,12 @@ Page({
     })
   },
   
+  bindMap: function(){
+    wx.navigateTo({
+      url: '../map/index',
+    })
+  },
+
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({

@@ -13,4 +13,7 @@
   <view>
     <button bindtap="bindScanCodeTap">扫码页</button>
   </view>
+  <view>
+    <button bindtap="bindMap">我的地图</button>
+    </view>
 </view>
